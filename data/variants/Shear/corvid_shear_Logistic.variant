@@ -1,0 +1,25 @@
+{
+    "displayName": "Logistic",
+    "fluxCapacitors": 0,
+    "fluxVents": 3,
+    "goalVariant": false,
+    "hullId": "diableavionics_shear",
+    "hullMods": [
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_shear_Logistic",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_burchel",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

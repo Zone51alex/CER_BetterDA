@@ -1,0 +1,44 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 8,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "diableavionics_versant",
+    "hullMods": [
+        "diableavionics_selector_auto",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_versant_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0000": "diableavionics_gravemg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_banishsmall",
+                "WS0002": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "GUN_LEFT": "diableavionics_versant_harvest_LEFT",
+                "GUN_RIGHT": "diableavionics_versant_harvest_RIGHT",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

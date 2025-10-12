@@ -5,3 +5,6 @@ Glowtusk Linear Rifle,diableavionics_glowtusk,0,,1800,600,,500,,50,18,10,,,,HIGH
 Glowfang Equation Rifle,diableavionics_glowfang,0,,800,450,,200,,50,18,5,,,,HIGH_EXPLOSIVE,275,,0,2.5,,,3,10,3,1,,750,,,350,,,USE_LESS_VS_SHIELDS,"he10, SR, diable_weapon_bp",,Diable Avionics,,Anti Armor,,,,,,,,,,
 Winee EMPR,diableavionics_winee,2,0.5,600,600,,25,400,25,50,7,,,,ENERGY,50,,0.5,7.2,5,0.075,,,,,,1000,,,25,,,USE_LESS_VS_SHIELDS,"energy5, diable_weapon_bp, rare_bp",,Diable Avionics,,Support,,,,,"%s: Hits on shields while at high hard flux or on hull have a %s chance to arc to weapons and engines, dealing extra EMP damage. ",EMP Arcs|25%,,,,
 State Support Beam,diableavionics_state,1,,1500,800,400,,,0,30,12,,,,HIGH_EXPLOSIVE,,320,0.1,0.1,2,1.925,,,,,3000,,,,,,,"NO_TURN_RATE_BOOST_WHEN_IDLE, USE_LESS_VS_SHIELDS","beam12, energy11, diable_weapon_bp",,Diable Avionics,,General,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#SYSTEM WEAPONS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diableavionics_calmSystem2,,,,1,1,,,,,,,,,,,,,10,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,
