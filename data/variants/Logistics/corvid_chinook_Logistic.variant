@@ -1,0 +1,42 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 6,
+    "fluxVents": 4,
+    "goalVariant": false,
+    "hullId": "diableavionics_chinook",
+    "hullMods": [
+        "auxiliary_fuel_tanks",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_chinook_Logistic",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_micromissile",
+                "WS0002": "diableavionics_micromissile",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_burchel",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,53 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 14,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "diableavionics_coanda",
+    "hullMods": [
+        "auxiliarythrusters",
+        "magazines",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_coanda_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_banish",
+                "WS0008": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "diableavionics_graveac",
+                "WS0003": "diableavionics_graveac",
+                "WS0004": "diableavionics_graveac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_glowfang",
+                "WS0007": "diableavionics_glowfang",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "diableavionics_ibis",
+                "WS0011": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

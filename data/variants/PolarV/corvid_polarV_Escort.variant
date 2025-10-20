@@ -1,0 +1,46 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 20,
+    "fluxVents": 12,
+    "goalVariant": false,
+    "hullId": "diable_polarV",
+    "hullMods": [
+        "eccm",
+        "escort_package",
+        "magazines",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_polarV_Escort",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "diableavionics_opfergv",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "diableavionics_plover",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_ibis",
+                "WS0003": "diableavionics_ibis",
+                "WS0002": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

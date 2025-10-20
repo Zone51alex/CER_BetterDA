@@ -1,0 +1,36 @@
+{
+    "displayName": "Logistic",
+    "fluxCapacitors": 1,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "diableavionics_stratus",
+    "hullMods": [
+        "efficiency_overhaul",
+        "expanded_cargo_holds",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_stratus_Logistic",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
+                "WS0006": "diableavionics_ibis",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_micromissile",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

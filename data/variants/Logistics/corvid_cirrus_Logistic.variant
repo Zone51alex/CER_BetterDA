@@ -1,0 +1,35 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 6,
+    "goalVariant": false,
+    "hullId": "diableavionics_cirrus",
+    "hullMods": [
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_cirrus_Logistic",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "diableavionics_burchel",
+            }
+        },
+    ],
+    "wings": [
+        "diableavionics_hoar_wing",
+    ],
+    "modules": [],
+}
