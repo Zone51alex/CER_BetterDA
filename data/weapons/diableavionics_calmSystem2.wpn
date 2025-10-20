@@ -17,5 +17,5 @@
 	"textureType":ROUGH,
 	"textureScrollSpeed":1.0,
 	"pixelsPerTexel":1.0,
-        "everyFrameEffect":"data.scripts.weapons.Diableavionics_calmEffect2",	
+        #"everyFrameEffect":"data.scripts.weapons.Diableavionics_calmEffect2",	
 }
