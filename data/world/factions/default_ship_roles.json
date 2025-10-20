@@ -75,9 +75,60 @@
 	},
 	"combatMedium":{
 		#better DA Variant Patrols OVERRIDE
+			"diableavionics_calm_standard":0,
+            "diableavionics_calm_assault":0,
+            "diableavionics_calm_brute":0,	
+            "diableavionics_calm_mixed":0,	
+            "diableavionics_calm_closequarter":0,
 
+            "diableavionics_hayle_standard":0,
+            "diableavionics_hayle_attack":0,	
+            "diableavionics_hayle_combat":0,	
+            "diableavionics_hayle_multirole":0,	
+            "diableavionics_hayle_closequarter":0,
+
+            "diableavionics_derecho_support":0,	
+            "diableavionics_derecho_standard":0,
+            "diableavionics_derecho_kite":0,	
+
+            "diable_polarV_support":0,
+            "diable_polarV_escort":0,
+            "diable_polarV_assault":0,
+
+            "diableavionics_coanda_standard":0,
+            "diableavionics_coanda_assault":0,
+            "diableavionics_coanda_support":0,
+
+            "diableavionics_miniGust_assault":0,	
+            "diableavionics_miniGust_closeSupport":0,	
+            "diableavionics_miniGust_support":0,	
+            "diableavionics_miniGust_beamer":0,	
+            "diableavionics_miniGust_pd":0,
+			
 		#better DA Variant Patrols
+			"corvid_calm_Standard":2,
+            "corvid_calm_Supressor":2,
+            "corvid_calm_Assault":2,	
+            "corvid_calm_Mixed":2,	
+            "corvid_calm_Close_Quarter":2,
 
+            "corvid_hayle_Standard":2,
+            "corvid_hayle_Close_Quarter":2,	
+            "corvid_hayle_Combat":2,	
+            "corvid_hayle_Multirole":2,	
+
+            "corvid_derecho_Support":2,	
+            "corvid_derecho_Standard":2,
+            "corvid_derecho_Kite":2,	
+
+            "corvid_polarV_Support":2,
+            "corvid_polarV_Escort":2,
+            "corvid_polarV_Assault":2,
+
+            "corvid_miniGust_Assault":2,	
+            "corvid_miniGust_Close_Support":2,	
+            "corvid_miniGust_Support":2,	
+            "corvid_miniGust_Beamer":2,	
 	},
 	"combatLarge":{
 		#better DA Variant Patrols OVERRIDE
@@ -102,9 +153,11 @@
 	},
 	"combatFreighterMedium":{
 		#better DA Variant Patrols OVERRIDE
-
+			"diableavionics_stratus_standard":0,
+            "diableavionics_stratus_combat":0,
+            "diableavionics_stratus_support":0,
 		#better DA Variant Patrols
-
+            "corvid_stratus_Logistic":4,
 	},
 	"combatFreighterLarge":{
 		#better DA Variant Patrols OVERRIDE
@@ -147,7 +200,8 @@
 	},
 	"phaseMedium":{
 			#better DA Variant Patrols persudo Phase
-			
+			"corvid_coanda_Standard":4,
+            "corvid_coanda_Assault":2,
 	},
 	"phaseLarge":{
 	},
@@ -162,9 +216,11 @@
 	},
 	"freighterMedium":{
 		#better DA Variant Patrols OVERRIDE
-
+			"diableavionics_stratus_standard":0,
+            "diableavionics_stratus_combat":0,
+            "diableavionics_stratus_support":0,
 		#better DA Variant Patrols
-
+			"corvid_stratus_Logistic":6,
 	},
 	"freighterLarge":{
 		#better DA Variant Patrols OVERRIDE
@@ -177,9 +233,10 @@
 	},
 	"tankerMedium":{
 		#better DA Variant Patrols OVERRIDE
-
+			"diableavionics_chinook_standard":0,
+            "diableavionics_chinook_support":0,
 		#better DA Variant Patrols
-
+			"corvid_chinook_Logistic":5,
 	},
 	"tankerLarge":{
 	},
@@ -188,9 +245,10 @@
 	},
 	"personnelMedium":{
 		#better DA Variant Patrols OVERRIDE
-
+			"diableavionics_cirrus_standard":0,
+            "diableavionics_cirrus_assault":0,
 		#better DA Variant Patrols
-
+			"corvid_cirrus_Logistic":5,
 	},
 	"personnelLarge":{
 	},
@@ -199,9 +257,10 @@
 	},
 	"linerMedium":{
 		#better DA Variant Patrols OVERRIDE
-
+			"diableavionics_cirrus_standard":0,
+            "diableavionics_cirrus_assault":0,
 		#better DA Variant Patrols
-
+			"corvid_cirrus_Logistic":5,
 	},
 	"linerLarge":{
 	},

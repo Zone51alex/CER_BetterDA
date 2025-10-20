@@ -24,7 +24,7 @@ and a weaker Missile Autoforge as standin effect incase arma is not installed.(U
 -Patrol Changes-
 setup Better DA Variants for Corvid using DA ships in patrol.
 *Frigates(Done)
-*Destroyers(Second Phase)
+*Destroyers(Done)
 *Cruisers
 *Capitals
 *Super Capitals

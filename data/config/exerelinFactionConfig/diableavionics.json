@@ -5,20 +5,20 @@
     ],
 
     "startShipsCombatSmall":[
-        ["corvid_calm_Mixed", "corvid_draft_Support", "corvid_draft_Support"],
-        ["corvid_hayle_Combat", "corvid_vapor_Standard","corvid_sleet_Standard"],
+        ["corvid_calm_Mixed", "corvid_draft_Assault", "corvid_draft_Assault"],
+        ["corvid_hayle_Combat", "corvid_vapor_Attack","corvid_sleet_Standard"],
         ["corvid_coanda_Standard", "corvid_hayle_Combat"],
     ],
 
 
 
     "startShipsTradeSmall":[
-        ["corvid_stratus_Logistic", "corvid_draft_Standard", "corvid_laminar_Logistic"],
+        ["corvid_stratus_Logistic", "corvid_draft_Assault", "corvid_laminar_Logistic"],
     ],
 
 
     "startShipsCarrierSmall":[
-        ["corvid_fractus_Standard", "diableavionics_vapor_standard", "corvid_vapor_Standard"],
+        ["corvid_fractus_Standard", "corvid_vapor_Attack", "corvid_vapor_Attack"],
     ],
 
 
