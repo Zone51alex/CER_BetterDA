@@ -45,7 +45,7 @@
   # OPTIONAL
   # A download link directly to the latest version of your mod.
   # This is used by mod managers/version checkers (eg SMOL, MOSS, LunaLib) to let users quickly update/download without visiting your mod page.
-  "directDownloadURL": "https://github.com/Zone51alex/CER_BetterDA/releases/download/0.8.0/CER_BetterDA-0.8.0.zip",
+  "directDownloadURL": "https://github.com/Zone51alex/CER_BetterDA/releases/download/0.9.0/CER_BetterDA-0.9.0.zip",
 
   # OPTIONAL
   # A link to your changelog.
