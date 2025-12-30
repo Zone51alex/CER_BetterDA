@@ -1,7 +1,7 @@
 {
-    "displayName": "Brawler",
+    "displayName": "BrawlerB",
     "fluxCapacitors": 10,
-    "fluxVents": 5,
+    "fluxVents": 6,
     "goalVariant": false,
     "hullId": "diableavionics_vapor",
     "hullMods": [

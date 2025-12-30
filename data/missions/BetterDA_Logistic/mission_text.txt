@@ -1,0 +1,12 @@
+Location: Mission Mode
+
+Date: None
+
+Welcome to the Showcase of Better DA Logistic.
+feel free to use F2 to check them all out in the Codec section.
+
+Unique Variants Ignored from Better DA :
+None
+
+Redundant Variants commented out :
+None

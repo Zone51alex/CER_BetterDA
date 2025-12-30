@@ -1,0 +1,42 @@
+{
+    "displayName": "Logistic",
+    "fluxCapacitors": 14,
+    "fluxVents": 15,
+    "goalVariant": true,
+    "hullId": "diable_tidal",
+    "hullMods": [
+        "efficiency_overhaul",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_tidal_Logistic",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "miningblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_graveac",
+                "WS0002": "diableavionics_graveac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_ibis",
+                "WS0004": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

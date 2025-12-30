@@ -1,0 +1,69 @@
+{
+    "displayName": "Beamer",
+    "fluxCapacitors": 4,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "diable_ashfallxivd",
+    "hullMods": [
+        "armoredweapons",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "diableavionics_mountBI",
+        "diableavionics_universaldecksExtra",
+    ],
+    "sMods": [
+    ],
+    "suppressedMods": [],
+    "variantId": "corvid_ashfallxivd_Beamer",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_banishsmall",
+                "WS0002": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "diableavionics_hexafire2",
+                "WS0011": "diableavionics_hexafire2",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_nocturne",
+                "WS0004": "diableavionics_nocturne",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "diableavionics_lazyhorn",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "diableavionics_ibis",
+                "WS0008": "diableavionics_ibis",
+                "WS0007": "diableavionics_ibis",
+                "WS0006": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [
+        "diableavionics_strife_wing",
+    ],
+    "modules": [],
+}

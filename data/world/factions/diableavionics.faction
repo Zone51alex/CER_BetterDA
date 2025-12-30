@@ -28,11 +28,237 @@
     "names":{
         "modern":1,
     },
+		
+     #variantOverrides restricts hulls to listed variants and adjusts their probability
+    "variantOverrides":{
+		#better DA Variant Patrols OVERRIDE
+		"diableavionics_draft_standard":0,
+        "diableavionics_draft_support":0,
+        "diableavionics_draft_assault":0,
+		
+		"diableavionics_vapor_attack":0,
+		"diableavionics_vapor_standard":0,
+        "diableavionics_vapor_closeRange":0,
+        "diableavionics_vapor_closequarter":0,
+        "diableavionics_vapor_brawler":0,
+		
+		"diableavionics_sleet_assault":0,
+        "diableavionics_sleet_beam":0,
+        "diableavionics_sleet_standard":0,
+        "diableavionics_sleet_support":0,
+		
+		"diable_brisk_standard":0,
+        "diable_brisk_escort":0,
+        "diable_brisk_support":0,
+		
+		"diableavionics_versant_assault":0,
+        "diableavionics_versant_escort":0,
+        "diableavionics_versant_standard":0,
+		
+		"diableavionics_calm_standard":0,
+        "diableavionics_calm_assault":0,
+        "diableavionics_calm_brute":0,	
+        "diableavionics_calm_mixed":0,	
+        "diableavionics_calm_closequarter":0,
 
-    # variantOverrides restricts hulls to listed variants and adjusts their probability
-    #"variantOverrides":{
-        #"diableavionics_versant_assault":30,
-    #},
+        "diableavionics_hayle_standard":0,
+        "diableavionics_hayle_attack":0,	
+        "diableavionics_hayle_combat":0,	
+        "diableavionics_hayle_multirole":0,	
+        "diableavionics_hayle_closequarter":0,
+
+        "diableavionics_derecho_support":0,	
+        "diableavionics_derecho_standard":0,
+        "diableavionics_derecho_kite":0,	
+
+        "diable_polarV_support":0,
+        "diable_polarV_escort":0,
+        "diable_polarV_assault":0,
+
+        "diableavionics_coanda_standard":0,
+        "diableavionics_coanda_assault":0,
+        "diableavionics_coanda_support":0,
+
+        "diableavionics_miniGust_assault":0,	
+        "diableavionics_miniGust_closeSupport":0,	
+        "diableavionics_miniGust_support":0,	
+        "diableavionics_miniGust_beamer":0,	
+        "diableavionics_miniGust_pd":0,
+		
+		"diableavionics_stratus_standard":0,
+        "diableavionics_stratus_combat":0,
+        "diableavionics_stratus_support":0,
+		
+		"diableavionics_chinook_standard":0,
+        "diableavionics_chinook_support":0,
+		
+		"diableavionics_cirrus_standard":0,
+        "diableavionics_cirrus_assault":0,
+		
+		"diableavionics_shear_standard":0,
+		"diableavionics_laminar_miner":0,
+		
+		"diableavionics_rime_breach":0,
+        "diableavionics_rime_standard":0,
+        "diableavionics_rime_support":0,
+		
+		"diableavionics_haze_standard":0,	
+        "diableavionics_haze_assault":0,
+        "diableavionics_haze_missile":0,
+        "diableavionics_haze_support":0,
+        "diableavionics_haze_closequarter":0,
+		
+		"diableavionics_daze_assault":0,
+		"diableavionics_daze_combat":0,	
+        "diableavionics_daze_craze":0,
+			
+		"diable_riptide_assault":0,
+        "diable_riptide_standard":0,
+        "diable_riptide_Support":0,
+			
+		"diable_ashfall_assault":0,
+        "diable_ashfall_beam":0,
+        "diable_ashfall_support":0,
+			
+		"diableavionics_gust_assault":0,	
+        "diableavionics_gust_sentinel":0,
+        "diableavionics_gust_standard":0,	
+        "diableavionics_gust_missile":0,
+        "diableavionics_gust_support":0,
+			
+		"diableavionics_rime_m_outdated":0,
+        "diableavionics_rime_m_standard":0,
+        "diableavionics_rime_m_assault":0,
+        "diableavionics_rime_m_advanced":0,
+			
+		"diableavionics_pandemonium_willBreaker":0,	
+        "diableavionics_pandemonium_bonesShatterer":0,
+        "diableavionics_pandemonium_gutsRipper":0,	
+        "diableavionics_pandemonium_mindBlower":0,
+        "diableavionics_pandemonium_extinguisher":0,
+
+        "diableavionics_maelstrom_standard":0,			
+        "diableavionics_maelstrom_beamer":0,			
+        "diableavionics_maelstrom_brawler":0,		
+        "diableavionics_maelstrom_vanguard":0,
+		
+		"diableavionics_fractus_support":0,
+        "diableavionics_fractus_attack":0,
+        "diableavionics_fractus_escort":0,
+        "diableavionics_fractus_standard":0,
+        "diableavionics_fractus_antiFighter":0,
+		
+		#Better DA Variant Patrols
+		"corvid_draft_Standard":4,
+		"corvid_draft_Assault":2,
+		"corvid_draft_Support":2,
+		
+		"corvid_vapor_Attack":2,
+        "corvid_vapor_Standard":2,
+        "corvid_vapor_Close_Quarter":2,
+        "corvid_vapor_Brawler":2,
+		
+		"corvid_sleet_Assault":2,
+        "corvid_sleet_Beamer":2,
+        "corvid_sleet_Standard":3,
+        "corvid_sleet_Support":3,
+		
+		"corvid_versant_Assault":3,
+        "corvid_versant_Escort":3,
+        "corvid_versant_Standard":4,
+		
+		"corvid_calm_Standard":2,
+        "corvid_calm_Supressor":2,
+        "corvid_calm_Assault":2,	
+        "corvid_calm_Mixed":2,	
+        "corvid_calm_Close_Quarter":2,
+
+        "corvid_hayle_Standard":2,
+        "corvid_hayle_Close_Quarter":2,	
+        "corvid_hayle_Combat":2,	
+        "corvid_hayle_Multirole":2,	
+
+        "corvid_derecho_Support":2,	
+        "corvid_derecho_Standard":2,
+        "corvid_derecho_Kite":2,	
+
+        "corvid_polarV_Support":2,
+        "corvid_polarV_Escort":2,
+        "corvid_polarV_Assault":2,
+
+        "corvid_miniGust_Assault":2,	
+        "corvid_miniGust_Close_Support":2,	
+        "corvid_miniGust_Support":2,	
+		"corvid_miniGust_Beamer":2,	
+		
+		"corvid_haze_Assault":2,
+        "corvid_haze_Missile":2,
+		"corvid_haze_Standard":2,
+        "corvid_haze_Support":2,
+			
+		"corvid_daze_Assault":2,
+		#diableavionics_daze_beamer
+        "corvid_daze_Combat":3,
+			
+		"corvid_riptide_Assault":2,
+        "corvid_riptide_Standard":2,
+        "corvid_riptide_Support":2,
+			
+		"corvid_ashfall_Assault":2,
+        "corvid_ashfall_Beamer":2,
+        "corvid_ashfall_Support":2,
+			
+		"corvid_gust_Assault":2,
+		"corvid_gust_Missile":2,			
+        "corvid_gust_Sentinel":3,
+        "corvid_gust_Standard":3,	
+        #diableavionics_gust_support
+			
+		"corvid_rime_m_Advanced":2,
+		"corvid_rime_m_Outdated":3,
+        "corvid_rime_m_Standard":3,
+        #diableavionics_rime_m_assault
+			
+		"corvid_pandemonium_Will-Breaker":2,	
+		"corvid_pandemonium_Bone-Smasher":2,
+		"corvid_pandemonium_Guts-Ripper":2,	
+		"corvid_pandemonium_Mind-Crusher":2,
+		"corvid_pandemonium_Extinguisher":2,
+			
+		"corvid_maelstrom_Standard":3,			
+        "corvid_maelstrom_Beamer":2,			
+        "corvid_maelstrom_Brawler":2,		
+        "corvid_maelstrom_Vanguard":3,
+			
+		"corvid_fractus_Attack":2,
+        "corvid_fractus_Escort":2,
+        "corvid_fractus_Standard":2,
+		"corvid_fractus_Support":2,
+			
+		"corvid_storm_Assault":2,
+        "corvid_storm_Quick-Strike":2,	
+		"corvid_storm_Standard":2,			
+		"corvid_storm_Support":2,
+			
+		"corvid_brisk_Standard":2,
+		"corvid_brisk_Escort":2,
+		"corvid_brisk_Support":2,
+			
+		"corvid_coanda_Standard":4,
+        "corvid_coanda_Assault":2,
+			
+		"corvid_stratus_Logistic":5,
+			
+		"corvid_rime_Logistic":4,
+			
+		"corvid_chinook_Logistic":5,
+			
+		"corvid_cirrus_Logistic":5,
+			
+		"corvid_shear_Logistic":2,
+		"corvid_laminar_Logistic":2,
+		"corvid_tidal_Logistic":2,
+    },
 
     # multiplier for how often hulls show up in the faction's fleets
     "hullFrequency":{

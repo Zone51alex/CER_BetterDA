@@ -1,12 +1,11 @@
 {
     "displayName": "Logistic",
-    "fluxCapacitors": 1,
-    "fluxVents": 0,
-    "goalVariant": false,
+    "fluxCapacitors": 0,
+    "fluxVents": 5,
+    "goalVariant": true,
     "hullId": "diableavionics_stratus",
     "hullMods": [
         "efficiency_overhaul",
-        "expanded_cargo_holds",
         "unstable_injector",
     ],
     "permaMods": [],
@@ -18,9 +17,8 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_ibis",
-                "WS0004": "diableavionics_ibis",
-                "WS0006": "diableavionics_ibis",
+                "WS0005": "diableavionics_graveac",
+                "WS0004": "diableavionics_graveac",
             }
         },
         {
@@ -28,6 +26,13 @@
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_micromissile",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "diableavionics_ibis",
             }
         },
     ],

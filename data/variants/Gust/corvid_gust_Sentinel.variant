@@ -1,0 +1,57 @@
+{
+    "displayName": "SentinelB",
+    "fluxCapacitors": 21,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "diableavionics_gust",
+    "hullMods": [
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_gust_Sentinel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
+                "WS0005": "diableavionics_banishsmall",
+                "WS0006": "diableavionics_banishsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_hexafire2",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "diableavionics_nocturne",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "diableavionics_ibis",
+                "WS0014": "diableavionics_ibis",
+                "WS0010": "diableavionics_ibis",
+                "WS0009": "diableavionics_ibis",
+                "WS0008": "diableavionics_ibis",
+                "WS0015": "diableavionics_ibis",
+                "WS0007": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [
+        "diableavionics_nightinghale_wing",
+    ],
+    "modules": [],
+}

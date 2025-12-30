@@ -1,0 +1,64 @@
+{
+    "displayName": "Quick-StrikeB",
+    "fluxCapacitors": 9,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "diableavionics_storm",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "corvid_storm_Quick-Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_thunderboltpod",
+                "WS0002": "diableavionics_thunderboltpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "diableavionics_microcluster_left",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "diableavionics_glaux",
+                "WS0004": "diableavionics_glaux",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_artassault",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0011": "diableavionics_magicboxPodBI",
+                "WS0006": "diableavionics_magicboxPodBI",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "diableavionics_ibis",
+            }
+        },
+    ],
+    "wings": [
+        "diableavionics_avalanche_wing",
+        "diableavionics_avalanche_wing",
+    ],
+    "modules": [],
+}

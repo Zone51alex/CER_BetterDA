@@ -1,0 +1,21 @@
+Location: Mission Mode
+
+Date: None
+
+Welcome to the Showcase of Better DA Logistic.
+feel free to use F2 to check them all out in the Codec section.
+
+Unique Variants Ignored from Better DA :
+(since they're not supposed to be seen by the Player)
+All Ashened Variants Ignored from Rgular Ships Except the XIV Ashfall.
+diableavionics_haze_closequarter
+diableavionics_daze_craze
+diableavionics_gust_support
+diableavionics_rime_m_assault
+
+Redundant Variants commented out :
+None
+
+
+Variants Reused due to it being Optimal :
+diableavionics_daze_beamer

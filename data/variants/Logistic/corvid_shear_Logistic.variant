@@ -1,10 +1,11 @@
 {
     "displayName": "Logistic",
-    "fluxCapacitors": 0,
-    "fluxVents": 3,
-    "goalVariant": false,
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "goalVariant": true,
     "hullId": "diableavionics_shear",
     "hullMods": [
+        "efficiency_overhaul",
         "unstable_injector",
     ],
     "permaMods": [],
@@ -16,7 +17,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_burchel",
+                "WS0001": "diableavionics_ibis",
             }
         },
     ],

@@ -1,11 +1,11 @@
 {
-    "displayName": "Assault",
-    "fluxCapacitors": 0,
-    "fluxVents": 6,
-    "goalVariant": false,
+    "displayName": "Logistic",
+    "fluxCapacitors": 1,
+    "fluxVents": 7,
+    "goalVariant": true,
     "hullId": "diableavionics_cirrus",
     "hullMods": [
-        "unstable_injector",
+        "expanded_deck_crew",
     ],
     "permaMods": [],
     "sMods": [],
@@ -16,20 +16,20 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_ibis",
-                "WS0004": "diableavionics_ibis",
+                "WS0005": "diableavionics_graveac",
+                "WS0004": "diableavionics_graveac",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0006": "diableavionics_burchel",
+                "WS0006": "diableavionics_ibis",
             }
         },
     ],
     "wings": [
-        "diableavionics_hoar_wing",
+        "diableavionics_arbitrator_wing",
     ],
     "modules": [],
 }

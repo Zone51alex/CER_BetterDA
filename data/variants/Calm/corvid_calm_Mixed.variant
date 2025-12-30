@@ -1,7 +1,7 @@
 {
-    "displayName": "Mixed",
-    "fluxCapacitors": 0,
-    "fluxVents": 19,
+    "displayName": "MixedB",
+    "fluxCapacitors": 9,
+    "fluxVents": 14,
     "goalVariant": false,
     "hullId": "diableavionics_calm",
     "hullMods": [
@@ -20,7 +20,7 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0003": "diableavionics_magicbox",
@@ -30,7 +30,7 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0010": "diableavionics_microbuiltin",

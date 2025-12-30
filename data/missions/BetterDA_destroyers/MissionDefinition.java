@@ -32,7 +32,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		// files in data/variants and data/variants/fighters
 				
 				//player Flagship
-				api.addToFleet(FleetSide.PLAYER, "corvid_calm_Assault", FleetMemberType.SHIP, true);
+				api.addToFleet(FleetSide.PLAYER, "corvid_coldfront_Flagship", FleetMemberType.SHIP, true);
 				//Calm Variants
 				api.addToFleet(FleetSide.PLAYER, "corvid_calm_Assault", FleetMemberType.SHIP, false);
                 api.addToFleet(FleetSide.PLAYER, "corvid_calm_Close_Quarter", FleetMemberType.SHIP, false);
@@ -94,7 +94,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_calm_mixed", FleetMemberType.SHIP, false);
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_calm_standard", FleetMemberType.SHIP, false);
 		//Old Hayle Variants
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_hayle_attack", FleetMemberType.SHIP, false);
+		//api.addToFleet(FleetSide.ENEMY, "diableavionics_hayle_attack", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_hayle_closequarter", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_hayle_combat", FleetMemberType.SHIP, false);
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_hayle_multirole", FleetMemberType.SHIP, false);
@@ -103,7 +103,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_assault", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_beamer", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_closeSupport", FleetMemberType.SHIP, false);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_pd", FleetMemberType.SHIP, false);
+		//api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_pd", FleetMemberType.SHIP, false);
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_miniGust_support", FleetMemberType.SHIP, false);
 		//Old PolarV Variants
 		api.addToFleet(FleetSide.ENEMY, "diable_polarV_assault", FleetMemberType.SHIP, false);
@@ -112,9 +112,9 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		//Old Coanda Variants
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_coanda_assault", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_coanda_standard", FleetMemberType.SHIP, false);
-        api.addToFleet(FleetSide.ENEMY, "diableavionics_coanda_support", FleetMemberType.SHIP, false);
+        //api.addToFleet(FleetSide.ENEMY, "diableavionics_coanda_support", FleetMemberType.SHIP, false);
 		//Old Fractus Variants
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_fractus_antiFighter", FleetMemberType.SHIP, false);
+		//api.addToFleet(FleetSide.ENEMY, "diableavionics_fractus_antiFighter", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_fractus_attack", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_fractus_escort", FleetMemberType.SHIP, false);
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_fractus_standard", FleetMemberType.SHIP, false);

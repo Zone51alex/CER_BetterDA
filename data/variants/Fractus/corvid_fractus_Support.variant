@@ -1,7 +1,7 @@
 {
-    "displayName": "Support",
-    "fluxCapacitors": 11,
-    "fluxVents": 8,
+    "displayName": "SupportB",
+    "fluxCapacitors": 2,
+    "fluxVents": 3,
     "goalVariant": false,
     "hullId": "diableavionics_fractus",
     "hullMods": [],
@@ -35,8 +35,8 @@
         },
     ],
     "wings": [
-        "diableavionics_frost_wing",
-        "diableavionics_frost_wing",
+        "diableavionics_blizzaia_wing",
+        "diableavionics_strife_wing",
     ],
     "modules": [],
 }

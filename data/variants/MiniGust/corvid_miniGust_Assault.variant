@@ -1,11 +1,12 @@
 {
-    "displayName": "Assault",
-    "fluxCapacitors": 5,
+    "displayName": "AssaultB",
+    "fluxCapacitors": 8,
     "fluxVents": 20,
     "goalVariant": false,
     "hullId": "diableavionics_miniGust",
     "hullMods": [
         "magazines",
+        "unstable_injector",
     ],
     "permaMods": [],
     "sMods": [],
@@ -46,7 +47,7 @@
         },
     ],
     "wings": [
-        "diableavionics_raven_wing",
+        "diableavionics_hoar_wing",
     ],
     "modules": [],
 }

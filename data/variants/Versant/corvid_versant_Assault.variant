@@ -1,6 +1,6 @@
 {
-    "displayName": "Assault",
-    "fluxCapacitors": 9,
+    "displayName": "AssaultB",
+    "fluxCapacitors": 8,
     "fluxVents": 10,
     "goalVariant": false,
     "hullId": "diableavionics_versant",

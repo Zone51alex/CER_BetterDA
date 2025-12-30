@@ -32,7 +32,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		// files in data/variants and data/variants/fighters
 				
 				//player Flagship
-				api.addToFleet(FleetSide.PLAYER, "corvid_vapor_Attack", FleetMemberType.SHIP, true);
+				api.addToFleet(FleetSide.PLAYER, "corvid_coldfront_Flagship", FleetMemberType.SHIP, true);
 				//Vapor Variants
 				api.addToFleet(FleetSide.PLAYER, "corvid_vapor_Attack", FleetMemberType.SHIP, false);
                 api.addToFleet(FleetSide.PLAYER, "corvid_vapor_Brawler", FleetMemberType.SHIP, false);
@@ -80,7 +80,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_attack", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_brawler", FleetMemberType.SHIP, false);
         api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_closequarter", FleetMemberType.SHIP, false);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_closeRange", FleetMemberType.SHIP, false);
+		//api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_closeRange", FleetMemberType.SHIP, false);
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_vapor_standard", FleetMemberType.SHIP, false);
 		//Old Draft Variants
 		api.addToFleet(FleetSide.ENEMY, "diableavionics_draft_assault", FleetMemberType.SHIP, false);

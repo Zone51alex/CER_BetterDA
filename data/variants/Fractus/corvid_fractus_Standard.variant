@@ -1,7 +1,7 @@
 {
-    "displayName": "Standard",
-    "fluxCapacitors": 0,
-    "fluxVents": 20,
+    "displayName": "StandardB",
+    "fluxCapacitors": 8,
+    "fluxVents": 13,
     "goalVariant": false,
     "hullId": "diableavionics_fractus",
     "hullMods": [],
@@ -14,11 +14,11 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0002": "diableavionics_nocturne",
+                "WS0002": "diableavionics_banish",
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_micromissile",
