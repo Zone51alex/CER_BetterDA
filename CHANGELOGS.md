@@ -1,3 +1,7 @@
+Version 0.9.1
+
+- Hotfix the variant for AshfallXIV Standard.
+
 Version 0.9.0
 
 - Added the Rest of the variants along with the implementation of the missions AND early patrol implementation for the faction.
