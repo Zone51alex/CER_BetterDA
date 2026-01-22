@@ -1,13 +1,12 @@
 {
-    "displayName": "BeamerB",
-    "fluxCapacitors": 14,
+    "displayName": "Beamer",
+    "fluxCapacitors": 10,
     "fluxVents": 30,
     "goalVariant": false,
     "hullId": "diable_ashfall",
     "hullMods": [
-        "armoredweapons",
         "hardenedshieldemitter",
-        "stabilizedshieldemitter",
+        "magazines",
         "targetingunit",
     ],
     "permaMods": [],
@@ -16,19 +15,25 @@
     "variantId": "corvid_ashfall_Beamer",
     "weaponGroups": [
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_banishsmall",
-                "WS0002": "diableavionics_banishsmall",
-                "WS0010": "diableavionics_banishsmall",
-                "WS0011": "diableavionics_banishsmall",
                 "WS0012": "diableavionics_banishsmall",
                 "WS0013": "diableavionics_banishsmall",
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diableavionics_graveac",
+                "WS0002": "diableavionics_graveac",
+                "WS0010": "diableavionics_graveac",
+                "WS0011": "diableavionics_graveac",
+            }
+        },
+        {
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0003": "diableavionics_nocturne",
@@ -39,7 +44,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0014": "diableavionics_hexafire",
+                "WS0014": "diableavionics_glowtusk",
             }
         },
         {

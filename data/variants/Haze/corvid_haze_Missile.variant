@@ -1,5 +1,5 @@
 {
-    "displayName": "MissileB",
+    "displayName": "Missile",
     "fluxCapacitors": 13,
     "fluxVents": 30,
     "goalVariant": false,
@@ -23,7 +23,7 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0001": "diableavionics_hexafire",

@@ -1,13 +1,13 @@
 {
-    "displayName": "AssaultB",
-    "fluxCapacitors": 11,
-    "fluxVents": 15,
+    "displayName": "Assault",
+    "fluxCapacitors": 25,
+    "fluxVents": 13,
     "goalVariant": false,
     "hullId": "diable_ashfall",
     "hullMods": [
+        "fluxbreakers",
         "hardenedshieldemitter",
         "targetingunit",
-        "unstable_injector",
     ],
     "permaMods": [],
     "sMods": [],
@@ -16,14 +16,20 @@
     "weaponGroups": [
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
-                "WS0001": "diableavionics_thunderboltsmall",
-                "WS0002": "diableavionics_thunderboltsmall",
-                "WS0010": "diableavionics_thunderboltsmall",
-                "WS0011": "diableavionics_thunderboltsmall",
-                "WS0012": "diableavionics_thunderboltsmall",
-                "WS0013": "diableavionics_thunderboltsmall",
+                "WS0010": "diableavionics_micromissile",
+                "WS0011": "diableavionics_micromissile",
+                "WS0012": "diableavionics_micromissile",
+                "WS0013": "diableavionics_micromissile",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "diable_glownail",
+                "WS0002": "diable_glownail",
             }
         },
         {
@@ -38,7 +44,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0014": "diableavionics_glowtusk",
+                "WS0014": "diableavionics_lazyhorn",
             }
         },
         {

@@ -1,11 +1,12 @@
 {
-    "displayName": "CombatB",
-    "fluxCapacitors": 9,
+    "displayName": "Combat",
+    "fluxCapacitors": 11,
     "fluxVents": 20,
     "goalVariant": false,
     "hullId": "diableavionics_hayle",
     "hullMods": [
         "hardenedshieldemitter",
+        "targetingunit",
     ],
     "permaMods": [],
     "sMods": [],
@@ -16,18 +17,18 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_thunderboltsmall",
-                "WS0003": "diableavionics_thunderboltsmall",
-                "WS0002": "diableavionics_thunderboltsmall",
-                "WS0004": "diableavionics_thunderboltsmall",
+                "WS0001": "diableavionics_nocturneDEM_small",
+                "WS0003": "diableavionics_nocturneDEM_small",
+                "WS0002": "diableavionics_nocturneDEM_small",
+                "WS0004": "diableavionics_nocturneDEM_small",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0005": "diableavionics_magicbox",
-                "WS0006": "diableavionics_magicbox",
+                "WS0005": "diableavionics_micromissile",
+                "WS0006": "diableavionics_micromissile",
             }
         },
         {

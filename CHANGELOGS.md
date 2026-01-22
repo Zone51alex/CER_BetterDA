@@ -1,3 +1,6 @@
+Version 0.9.2
+- Added Custom AI to the Calm's ShipSystem.
+
 Version 0.9.1
 
 - Hotfix the variant for AshfallXIV Standard.

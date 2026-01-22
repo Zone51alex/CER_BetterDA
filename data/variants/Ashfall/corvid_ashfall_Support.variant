@@ -1,12 +1,11 @@
 {
-    "displayName": "SupportB",
-    "fluxCapacitors": 0,
+    "displayName": "Support",
+    "fluxCapacitors": 1,
     "fluxVents": 30,
     "goalVariant": false,
     "hullId": "diable_ashfall",
     "hullMods": [
         "eccm",
-        "nav_relay",
         "targetingunit",
     ],
     "permaMods": [],
@@ -15,21 +14,21 @@
     "variantId": "corvid_ashfall_Support",
     "weaponGroups": [
         {
-            "autofire": true,
-            "mode": "LINKED",
+            "autofire": false,
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS0001": "diableavionics_magicbox",
-                "WS0002": "diableavionics_magicbox",
+                "WS0010": "diableavionics_thunderboltsmall",
+                "WS0011": "diableavionics_thunderboltsmall",
+                "WS0012": "diableavionics_thunderboltsmall",
+                "WS0013": "diableavionics_thunderboltsmall",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS0012": "diableavionics_micromissile",
-                "WS0011": "diableavionics_micromissile",
-                "WS0013": "diableavionics_micromissile",
-                "WS0010": "diableavionics_micromissile",
+                "WS0001": "diableavionics_recson",
+                "WS0002": "diableavionics_recson",
             }
         },
         {
@@ -37,8 +36,14 @@
             "mode": "LINKED",
             "weapons": {
                 "WS0003": "diableavionics_srab",
-                "WS0014": "diableavionics_srab",
                 "WS0004": "diableavionics_srab",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "diableavionics_lazyhorn",
             }
         },
         {

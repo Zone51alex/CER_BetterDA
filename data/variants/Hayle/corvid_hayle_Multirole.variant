@@ -1,12 +1,11 @@
 {
-    "displayName": "MultiroleB",
-    "fluxCapacitors": 19,
-    "fluxVents": 18,
+    "displayName": "Multirole",
+    "fluxCapacitors": 9,
+    "fluxVents": 20,
     "goalVariant": false,
     "hullId": "diableavionics_hayle",
     "hullMods": [
         "eccm",
-        "hardenedshieldemitter",
     ],
     "permaMods": [],
     "sMods": [],
@@ -14,23 +13,29 @@
     "variantId": "corvid_hayle_Multirole",
     "weaponGroups": [
         {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "diableavionics_thunderboltsmall",
+                "WS0003": "diableavionics_thunderboltsmall",
+                "WS0002": "diableavionics_thunderboltsmall",
+                "WS0004": "diableavionics_thunderboltsmall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "diableavionics_micromissile",
+                "WS0006": "diableavionics_micromissile",
+            }
+        },
+        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS0009": "diableavionics_srab",
                 "WS0008": "diableavionics_srab",
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS0001": "diableavionics_banishsmall",
-                "WS0003": "diableavionics_banishsmall",
-                "WS0002": "diableavionics_banishsmall",
-                "WS0005": "diableavionics_banishsmall",
-                "WS0004": "diableavionics_banishsmall",
-                "WS0006": "diableavionics_banishsmall",
             }
         },
         {

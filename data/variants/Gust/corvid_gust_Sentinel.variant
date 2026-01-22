@@ -1,10 +1,11 @@
 {
-    "displayName": "SentinelB",
-    "fluxCapacitors": 21,
+    "displayName": "Sentinel",
+    "fluxCapacitors": 16,
     "fluxVents": 30,
     "goalVariant": false,
     "hullId": "diableavionics_gust",
     "hullMods": [
+        "armoredweapons",
         "targetingunit",
     ],
     "permaMods": [],
@@ -17,8 +18,8 @@
             "mode": "ALTERNATING",
             "weapons": {
                 "WS0003": "diableavionics_banishsmall",
-                "WS0004": "diableavionics_banishsmall",
                 "WS0005": "diableavionics_banishsmall",
+                "WS0004": "diableavionics_banishsmall",
                 "WS0006": "diableavionics_banishsmall",
             }
         },
@@ -51,7 +52,7 @@
         },
     ],
     "wings": [
-        "diableavionics_nightinghale_wing",
+        "diableavionics_valiant_wing",
     ],
     "modules": [],
 }

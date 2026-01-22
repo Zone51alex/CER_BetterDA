@@ -1,5 +1,5 @@
 {
-    "displayName": "StandardB",
+    "displayName": "Standard",
     "fluxCapacitors": 17,
     "fluxVents": 30,
     "goalVariant": false,
@@ -19,8 +19,8 @@
             "mode": "LINKED",
             "weapons": {
                 "WS0003": "diableavionics_micromissile",
-                "WS0004": "diableavionics_micromissile",
                 "WS0005": "diableavionics_micromissile",
+                "WS0004": "diableavionics_micromissile",
                 "WS0006": "diableavionics_micromissile",
             }
         },
