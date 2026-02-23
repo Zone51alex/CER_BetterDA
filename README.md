@@ -89,7 +89,8 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
 
 ## Credits
 
-- **Zone51** – Creator & Maintainer  
+- **Zone51** – Main mod maintainer (design, implementation, general development)  
+- **SIDEWAYS255** – Mod maker partner  
 
 ---
 
