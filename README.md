@@ -47,6 +47,8 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
   - ShipSystem AI heavily improved (it fully utilizes buffs during combat).  
 - **Damper Wave**
   - Changed AI type to `TEMPORAL_SHELL` for better AI usage.
+- **RipTide**
+  - This is the Actual Battle Carrier for Diable Avionics, however since we try to NOT touch Stats, i won't Make a ship_data.csv Entry for it.
 
 ### Weapon Changes
 - **Winee EMPR**: Main offender; The `FIRE_WHEN_INEFFICIENT` on it was basically a Dumping Flux Weapon acidentally Designed to Troll both the player and the a.i. alike, Changed to `USE_LESS_VS_SHIELDS`.
