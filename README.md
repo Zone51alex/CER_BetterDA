@@ -1,3 +1,99 @@
-CER Better DA
+# CER Better DA
 
-a Simple Mod that Fixes and improves Diable's Arsenal and Variants.
+[![License](https://img.shields.io/badge/license-Community%20Open%20Source-blue.svg)](https://github.com/Zone51alex/CER_BetterDA/blob/main/license.txt)
+[![Releases](https://img.shields.io/github/v/release/Zone51alex/CER_BetterDA?color=blue)](https://github.com/Zone51alex/CER_BetterDA/releases)
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Goals](#goals)
+- [Changes Included](#changes-included)
+- [Compatibility](#compatibility)
+- [Dependencies](#dependencies)
+- [Download](#download)
+- [Credits](#credits)
+- [License](#license)
+
+---
+
+## Overview
+
+**CER Better DA** is a refinement mod for **Diable Avionics** that focuses on improving ship variants, weapons, and ShipSystems.  
+The goal is to help the faction function more reliably for both AI and player fleets — without increasing difficulty or altering the intended balance.  
+
+This is a **functionality and polish mod**, not a “hard mode” or full rebalance.
+
+---
+
+## Goals
+
+- Improve AI performance and decision-making  
+- Fix the most problematic weapons  
+- Refine ShipSystem behavior for better usability  
+- Update and polish all variants  
+- Preserve Diable Avionics’ intended strength and identity  
+
+---
+
+## Changes Included
+
+### Ship Adjustments
+- **Storm**  
+  - Removed battlecarrier combat tag  
+  - Purpose: 1) Mod indicator that CER Better DA is installed, 2) Storm does not have stats to function as a Battlecarrier  
+- **Calm**  
+  - ShipSystem AI heavily improved (fully utilizes buffs during combat)  
+
+### Ship System Changes
+- **Damper Wave**: Changed AI type to `TEMPORAL_SHELL` for better AI usage (tested and working)  
+
+### Weapon Changes
+- **Winee EMPR**: Main offender; fixed issues to function properly  
+- **Other weapons** (Artassault Revolver Cannon, Glowtusk Linear Rifle, Glowfang Equation Rifle, State Support Beam) updated for better AI usability (`USE_LESS_VS_SHIELDS` tag added as appropriate)  
+
+### Variant / Patrol Improvements
+- All variants have been improved to function correctly with both AI and player fleets  
+- Patrol setup updated for Corvid using Diable Avionics ships:
+  - Frigates ✅  
+  - Destroyers ✅  
+  - Cruisers ✅  
+  - Capitals ✅  
+  - Super Capitals ✅  
+
+---
+
+## Compatibility
+
+- Built to follow the same Starsector version as Diable Avionics  
+- Works alongside Nexerelin and other faction mods  
+- No lore changes or forced difficulty shifts  
+
+---
+
+## Dependencies
+
+- [MagicLib](https://github.com/MagicLibStarsector/MagicLib)  
+- [LazyLib](https://github.com/LazyWizard/lazylib)  
+- *(Optional)* [LunaLib](https://github.com/Lukas22041/LunaLib)  
+
+---
+
+## Download
+
+ **[Releases](https://github.com/Zone51alex/CER_BetterDA/releases)**
+
+---
+
+## Credits
+
+- **Zone51** – Creator & Maintainer  
+
+---
+
+## License
+
+CER Better DA follows the same community reuse license as Diable Avionics.
+
+**[license.txt](https://github.com/Zone51alex/CER_BetterDA/blob/main/license.txt)**
