@@ -45,9 +45,8 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
   - Purpose: 1) Mod indicator that CER Better DA is installed, 2) Storm does not have stats to function as a Battlecarrier  
 - **Calm**  
   - ShipSystem AI heavily improved (fully utilizes buffs during combat)  
-
-### Ship System Changes
-- **Damper Wave**: Changed AI type to `TEMPORAL_SHELL` for better AI usage (tested and working)  
+- **Damper Wave**
+  - Changed AI type to `TEMPORAL_SHELL` for better AI usage (tested and working)  
 
 ### Weapon Changes
 - **Winee EMPR**: Main offender; fixed issues to function properly  
@@ -56,11 +55,11 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
 ### Variant / Patrol Improvements
 - All variants have been improved to function correctly with both AI and player fleets  
 - Patrol setup updated for Corvid using Diable Avionics ships:
-  - Frigates ✅  
-  - Destroyers ✅  
-  - Cruisers ✅  
-  - Capitals ✅  
-  - Super Capitals ✅  
+  - Frigates (done)   
+  - Destroyers (done)   
+  - Cruisers (done)   
+  - Capitals (done)  
+  - Super Capitals (done) 
 
 ---
 
