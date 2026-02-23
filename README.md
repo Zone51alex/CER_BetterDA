@@ -1,7 +1,7 @@
 # CER Better DA
 
 [![License](https://img.shields.io/badge/license-Community%20Open%20Source-blue.svg)](https://github.com/Zone51alex/CER_BetterDA/blob/main/license.txt)
-[![Releases](https://img.shields.io/github/v/release/Zone51alex/CER_BetterDA?color=blue)](https://github.com/Zone51alex/CER_BetterDA/releases)
+[![Releases](https://img.shields.io/github/v/release/Zone51alex/CER_BetterDA?color=red)](https://github.com/Zone51alex/CER_BetterDA/releases)
 
 ---
 
