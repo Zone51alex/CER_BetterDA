@@ -1,4 +1,4 @@
-# CER Better DA
+# Corvid's Better Diable Avionics
 
 [![License](https://img.shields.io/badge/license-Community%20Open%20Source-blue.svg)](https://github.com/Zone51alex/CER_BetterDA/blob/main/license.txt)
 [![Releases](https://img.shields.io/github/v/release/Zone51alex/CER_BetterDA?color=red)](https://github.com/Zone51alex/CER_BetterDA/releases)
@@ -93,6 +93,6 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
 
 ## License
 
-CER Better DA follows the same community reuse license as Diable Avionics.
+Corvid's Better Diable Avionics follows the same community reuse license as Diable Avionics.
 
 **[license.txt](https://github.com/Zone51alex/CER_BetterDA/blob/main/license.txt)**
