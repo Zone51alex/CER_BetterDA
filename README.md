@@ -42,14 +42,14 @@ This is a **functionality and polish mod**, not a “hard mode” or full rebala
 ### Ship Adjustments
 - **Storm**  
   - Removed battlecarrier combat tag  
-  - Purpose: 1) Mod indicator that CER Better DA is installed, 2) Storm does not have stats to function as a Battlecarrier  
+  - Purpose: 1) Mod indicator that Corvid's Better DA is Correctly installed, 2) Storm does not have stats to function as a Battlecarrier.  
 - **Calm**  
-  - ShipSystem AI heavily improved (fully utilizes buffs during combat)  
+  - ShipSystem AI heavily improved (it fully utilizes buffs during combat).  
 - **Damper Wave**
-  - Changed AI type to `TEMPORAL_SHELL` for better AI usage (tested and working)  
+  - Changed AI type to `TEMPORAL_SHELL` for better AI usage.
 
 ### Weapon Changes
-- **Winee EMPR**: Main offender; fixed issues to function properly  
+- **Winee EMPR**: Main offender; The `FIRE_WHEN_INEFFICIENT` on it was basically a Dumping Flux Weapon acidentally Designed to Troll both the player and the a.i. alike, Changed to `USE_LESS_VS_SHIELDS`.
 - **Other weapons** (Artassault Revolver Cannon, Glowtusk Linear Rifle, Glowfang Equation Rifle, State Support Beam) updated for better AI usability (`USE_LESS_VS_SHIELDS` tag added as appropriate)  
 
 ### Variant / Patrol Improvements
